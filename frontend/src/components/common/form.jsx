@@ -10,8 +10,6 @@ import {
 import { Textarea } from "../ui/textarea";
 import { Button } from "../ui/button";
 
-//making a type object
-
 function CommonForm({
   formControls,
   formData,
